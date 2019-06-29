@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\bin\Debug\XmlRenderTestProject.exe.config
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\bin\Debug\XmlRenderTestProject.exe
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\bin\Debug\XmlRenderTestProject.pdb
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\obj\Debug\XmlRenderTestProject.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\obj\Debug\App.g.cs
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\obj\Debug\XmlRenderTestProject_MarkupCompile.cache
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\obj\Debug\XmlRenderTestProject_MarkupCompile.lref
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\obj\Debug\XmlRenderTestProject.g.resources
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\obj\Debug\XmlRenderTestProject.Properties.Resources.resources
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\obj\Debug\XmlRenderTestProject.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\obj\Debug\XmlRenderTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\obj\Debug\XmlRenderTestProject.exe
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\obj\Debug\XmlRenderTestProject.pdb
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\obj\Debug\MainWindow.g.cs
+C:\Users\Asus\source\repos\XmlRenderTestProject\XmlRenderTestProject\obj\Debug\MainWindow.baml
